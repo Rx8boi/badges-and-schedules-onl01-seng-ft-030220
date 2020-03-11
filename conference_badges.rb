@@ -8,5 +8,5 @@
      # create a method called "printer" that will ouput first the results of the "batch_badge_creator" method & then the "assign_rooms" method on screen
      
      def badge_maker(name)
-       puts "Hello, my name is #{name}."
+       puts "Hello, my name is #{"name"}."
      end
